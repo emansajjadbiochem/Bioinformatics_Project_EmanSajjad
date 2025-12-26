@@ -1,0 +1,4 @@
+Final predicted location + justification
+Nucleus
+Justification:
+TargetP analysis detected no mitochondrial targeting peptide or signal peptide, excluding mitochondrial and secretory pathways. PSORT predicted nuclear localization, and InterPro domain analysis identified a bHLH transcription factor (ILR3-like) domain, which requires nuclear access for DNA binding and transcriptional regulation. Collectively, these results strongly support nuclear localization of the protein.

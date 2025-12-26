@@ -1,0 +1,7 @@
+Reason:
+ORF analysis was performed using NCBI ORF Finder with a minimum length cutoff of 150 bp. Six ORFs were identified across six reading frames. 
+Among 6 identified ORFs, ORF3 located on the forward strand (+3 frame) was the longest, spanning 735 nucleotides and encoding a 244 amino acid protein, so was selected as the most likely coding region. It contained a canonical start codon (ATG) and a valid stop codon with no internal interruptions. Additionally, its length and orientation suggest that it represents a genuine protein-coding gene, whereas the remaining ORFs were considerably shorter and more likely to be non-functional. Therefore, ORF3 was chosen for downstream protein translation.
+
+
+
+

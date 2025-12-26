@@ -1,0 +1,6 @@
+Phylogenetic Tree: Explanation 
+The phylogenetic tree was constructed to analyze the evolutionary relationship of the ILR3-like transcription factor protein across different plant species. The tree is based on multiple sequence alignment of homologous protein sequences obtained from various plant taxa.
+In the phylogenetic tree, closely related species cluster together, indicating a high degree of sequence similarity and evolutionary conservation. For example, species belonging to the Solanaceae family (such as Solanum, Capsicum, Nicotiana, and Lycopersicon) form tight clades, suggesting that the ILR3-like protein has been conserved during evolution within this family. This conservation implies that the protein performs essential biological functions that are maintained across related species.
+More distantly related species appear on separate branches, reflecting sequence divergence due to evolutionary distance. The presence of hypothetical or unnamed proteins clustering with annotated ILR3-like proteins suggests that these proteins are likely to share similar functional roles, even if they are not yet fully characterized.
+Overall, the phylogenetic analysis demonstrates that the ILR3-like transcription factor is evolutionarily conserved, supporting its importance in plant growth, development, and stress response pathways.
+

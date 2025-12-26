@@ -1,0 +1,27 @@
+Functional prediction based on domains (summary)
+Based on the InterProScan results, this protein can be functionally predicted as follows:
+Predicted Protein Type
+Basic Helix–Loop–Helix (bHLH) transcription factor
+(ILR3-like family)
+Key Domains Identified & Their Functions
+1. bHLH domain (basic Helix–Loop–Helix)
+Enables DNA binding, typically to E-box motifs (CANNTG)
+Facilitates transcriptional regulation of target genes
+The protein acts as a transcription regulator, turning genes on or off
+2. HLH (Helix–Loop–Helix) region
+Mediates protein–protein interactions
+Allows homodimer or heterodimer formation with other bHLH proteins
+Dimerization is essential for DNA binding specificity and stability
+3. Conserved residues
+Indicative of evolutionarily conserved functional importance
+Often involved in DNA binding and dimer interface formation
+Confirms the protein is functionally active, not a pseudogene
+Overall Functional Prediction:
+This protein is likely a nuclear transcription factor
+ It regulates gene expression by:
+Binding DNA via the bHLH domain
+Forming dimers via the HLH motif
+As an ILR3-like protein, it is commonly associated with:
+Developmental regulation
+Metal ion homeostasis (especially iron-related pathways, in plants)
+Stress and hormonal response regulation

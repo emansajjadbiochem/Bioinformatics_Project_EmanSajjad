@@ -1,0 +1,5 @@
+Explanation of RNA Structural Stability
+The predicted RNA secondary structure shows a minimum free energy (MFE) of –206.50 kcal/mol, which indicates a thermodynamically stable structure. In general, a more negative free energy value reflects stronger base pairing interactions and greater structural stability.
+The free energy of the thermodynamic ensemble is –220.05 kcal/mol, which is lower than the MFE value. This suggests that the RNA molecule does not exist in a single fixed conformation but rather adopts multiple alternative secondary structures whose combined stability is greater than that of any single structure.
+The frequency of the MFE structure in the ensemble is 0.00%, indicating that although this structure is theoretically the most stable, it is rarely adopted under physiological conditions. Instead, the RNA fluctuates among many near-optimal structures.
+The ensemble diversity value of 181.08 is very high, showing a large structural variability within the ensemble. This reflects a highly flexible and dynamic RNA molecule with many possible folding patterns.
